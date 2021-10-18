@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "totalResults": 7,
+  "articles": [
+    {
+      "source": { "id": "nrk", "name": "NRK" },
+      "author": "NRK",
+      "title": "De siste sportsnyhetene fra NRK",
+      "description": "Her får du de siste sportsnyhetene fra NRK.",
+      "url": "https://www.nrk.no/sport/sportsnyheter-1.14660227#1.15692693.1.15692693",
+      "urlToImage": "https://gfx.nrk.no/7kT5zGoE2E-GnUKLojH1PQ0I1Nze4Ypu8lxM-oBjubQw.jpg",
+      "publishedAt": "2021-10-16T13:37:27.4097516Z",
+      "content": "16. oktober2021kl.09:56E-sportforbundet har satt søknaden om å bli medlem i Norges idrettsforbund på vent. Det bekreftet idrettspresident Berit Kjøll i sin tale til det ekstraordinære idrettstinget l… [+743 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Tim Teeman",
+      "title": "Texas Senate Passes Bill Targeting Trans Kids in School Sports",
+      "description": "House Bill 25, which states that young people may only play on teams corresponding to the gender assigned to them at or near birth, now heads to Gov. Greg Abbott to sign.",
+      "url": "https://www.thedailybeast.com/texas-senate-passes-bill-targeting-trans-kids-in-school-sports",
+      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_334,w_594,x_0,y_59/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1634348130/gettyimages-1052957440-594x594_3_rrmg0s",
+      "publishedAt": "2021-10-16T01:47:46+00:00",
+      "content": "The Texas Senate voted Friday night to pass a bill restricting trans teens participation in school sports. House Bill 25, which will now be sent to Gov. Greg Abbotts desk for signing, sets into law t… [+1429 chars]"
+    },
+    {
+      "source": { "id": "nbc-news", "name": "NBC News" },
+      "author": "Alexander Smith",
+      "title": "Saudi-Newcastle soccer takeover prompts 'sportswashing' concerns",
+      "description": "The Saudi-backed takeover of Newcastle United soccer club has prompted concerns the kingdom is using the team for \"sportswashing.\"",
+      "url": "https://www.nbcnews.com/news/world/saudi-newcastle-soccer-takeover-prompts-sportswashing-concerns-rcna2845",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-10/211011-saudi-newcastle-mb-1522-75e3bf.jpg",
+      "publishedAt": "2021-10-13T18:20:38Z",
+      "content": "LONDON A former shipbuilding city in northeast England may seem an unlikely place for Saudi Crown Prince Mohammed bin Salman to rehabilitate his tarnished reputation.\r\nAnd yet last week, hundreds of … [+5689 chars]"
+    },
+    {
+      "source": { "id": "ign", "name": "IGN" },
+      "author": null,
+      "title": "Rainbow Six Siege: Let's Play Doktor's Curse With Tips & Tricks Ft. Interro - IGN",
+      "description": "IGN On the Six is back with a special let's play of Tom Clancy's Rainbow Six Siege's limited in-game event for Halloween: Doktor's Curse. Esports commentator Parker \"Interro\" Mackay is back with some special tips, tricks, and screams for Doktor's Curse. The f…",
+      "url": "https://www.ign.com/videos/rainbow-six-siege-lets-play-doktors-curse-with-tips-tricks-ft-interro",
+      "urlToImage": "https://assets1.ignimgs.com/thumbs/userUploaded/2021/10/8/lpoo-1633728580752.jpg?width=1280",
+      "publishedAt": "2021-10-13T15:52:32.9060425Z",
+      "content": "Did you enjoy this video?"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": "Abbey Mastracco",
+      "title": "Cheating Scandals, Injuries and Slumps Don't Matter: The Astros Are Inevitable",
+      "description": "A funny thing happens when sports teams have a long periods of sustained success: They become villains.       The  Houston Astros  are amid the most dominant stretch in club history...",
+      "url": "https://bleacherreport.com/articles/2949326-cheating-scandals-injuries-and-slumps-dont-matter-the-astros-are-inevitable",
+      "urlToImage": "https://img.bleacherreport.net/img/images/photos/003/918/082/hi-res-d2bc4e6f3844670f0bbd9025d4dfdbbf_crop_exact.jpg?w=1200&h=1200&q=75",
+      "publishedAt": "2021-10-13T01:49:31Z",
+      "content": "Nam Y. Huh/Associated Press\r\nA funny thing happens when sports teams have a long periods of sustained success: They become villains. \r\nThe Houston Astros are amid the most dominant stretch in club hi… [+6345 chars]"
+    }
+  ]
+}
